@@ -1,0 +1,1 @@
+declare module '@notus-pro/react'
